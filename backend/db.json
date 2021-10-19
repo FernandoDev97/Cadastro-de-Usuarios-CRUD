@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Fernando ",
+      "surname": "Souza",
+      "email": "l.fernando.dev@gmail.com",
+      "birthDate": "1997-11-20",
+      "id": 1
+    },
+    {
+      "name": "Maria",
+      "surname": "Julia",
+      "email": "julia123@hotmail.com",
+      "birthDate": "1996-11-20",
+      "id": 2
+    },
+    {
+      "name": "Luiz Fernando",
+      "surname": "Rodrigues de Souza",
+      "email": "l.fernando.dev@gmail.com",
+      "birthDate": "1997-11-20",
+      "id": 3
+    }
+  ]
+}
